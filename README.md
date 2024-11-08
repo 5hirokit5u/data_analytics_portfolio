@@ -14,4 +14,4 @@ The objective of the NYC COLLISIONS ANALYSIS is to identify patterns and trends 
 
 The data set and accompanying guidance have been sourced from [Maven Analytics](https://app.mavenanalytics.io/guided-projects)
 
-![one_pager_wolf_cola](./.assets/nyc_collisions_one_pager.JPG)
+![one_pager_wolf_cola](./.assets/nyc_collisions_one_pagerJPG.JPG)
